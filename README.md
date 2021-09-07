@@ -1,4 +1,4 @@
-# DatabaseCourseInZJU
+# DatabaseCourseInZJU 2021Spring Project
 ## This is the Spring project of Zhejiang University Database, which is based on swing.
 The following are the operating system, database management system and programming language used in the experiment
 -Operating system: Windows10
